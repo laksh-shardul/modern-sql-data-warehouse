@@ -1,7 +1,7 @@
 # Financial Data Warehouse: Automated ERP-to-Analytics Pipeline
 
 ## 🎯 Project Overview
-This repository contains a full-stack implementation of a **Modern Data Warehouse (MDW)** designed to transform fragmented financial source data into an audit-ready **Star Schema**. 
+This repository contains a full-stack implementation of a **Modern Data Warehouse (MDW)** designed to transform fragmented financial source data into an audit-conscious **Star Schema**. 
 
 As a **Chartered Accountant (CA)** transitioning into Data Engineering, my objective was to build a system that prioritizes **data integrity, idempotency, and reconcilability**. This project demonstrates the technical bridge between complex financial logic and scalable SQL architecture.
 
@@ -29,8 +29,7 @@ The system follows a **Modular Layered Architecture** to ensure a "Single Versio
 
 ---
 
-## 💎 The "CA" Edge: Financial Integrity Features
-Unlike standard data projects, this warehouse incorporates specific logic to ensure **Audit-level accuracy**:
+## 💎 Financial Integrity Considerations:
 
 1.  **Data Type Precision:** Implementation of precise numeric types (Decimal/Numeric) for financial values to prevent rounding errors common in float-based systems.
 2.  **Null-Handling Logic:** Defensive SQL logic to prevent `NULL` values from aggregating incorrectly, which would mask missing revenue or expenses.
@@ -71,7 +70,7 @@ This project was implemented following industry-standard architectural patterns.
 ---
 
 ## 👔 Why This Repository Matters
-This project proves that I can:
+This repository demonstrates:
 1.  **Code with a Purpose:** SQL is used as a tool to solve the "Messy Data" problem in finance.
-2.  **Architect for Scale:** The Star Schema is built for Big Tech-level BI.
+2.  **Architect for Scale:** The Star Schema is built with scalability and analytical consistency in mind.
 3.  **Ensure Accuracy:** My CA background ensures that the data is not just "moving," but is **correct and reconcilable.**
