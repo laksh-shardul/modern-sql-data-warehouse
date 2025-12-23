@@ -157,15 +157,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Acknowledgements
-
-This project was built by following a comprehensive SQL Server data warehouse walkthrough used as a structured learning reference:
-https://www.youtube.com/watch?v=9GVqKuTVANE
-
-The walkthrough provided guidance on industry standard patterns, while all implementation work was executed hands-on to understand the full lifecycle of a data warehouse, including architecture design, ETL development, and dimensional modeling.
-
----
-
 ## Why This Repository Matters
 
 This project demonstrates the ability to:
